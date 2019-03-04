@@ -20,10 +20,10 @@
   resolved "https://registry.yarnpkg.com/@types/chai/-/chai-4.1.7.tgz#1b8e33b61a8c09cbe1f85133071baa0dbf9fa71a"
   integrity sha512-2Y8uPt0/jwjhQ6EiluT0XCri1Dbplr0ZxfFXUz+ye13gaqE8u5gL5ppao1JrUYr9cIip5S6MvQzBS7Kke7U9VA==
 
-"@types/lodash.isplainobject@^4.0.0":
-  version "4.0.5"
-  resolved "https://registry.yarnpkg.com/@types/lodash.isplainobject/-/lodash.isplainobject-4.0.5.tgz#3bcca90a7cdbfaf32e0d95246e9af554fe613f53"
-  integrity sha512-+AkJJ74N02i/SBEvRsT7J0A4O2Nr9KSpLpKS2cDvm04n8Hj0SU0mM1oFbGIPNXbNX1AXBV6Chgns/n+eXXoMDw==
+"@types/lodash.isplainobject@^4.0.6":
+  version "4.0.6"
+  resolved "https://registry.yarnpkg.com/@types/lodash.isplainobject/-/lodash.isplainobject-4.0.6.tgz#757d2dcdecbb32f4452018b285a586776092efd1"
+  integrity sha512-8G41YFhmOl8Ck6NrwLK5hhnbz6ADfuDJP+zusDnX3PoYhfC60+H/rQE6zmdO4yFzPCPJPY4oGZK2spbXm6gYEA==
   dependencies:
     "@types/lodash" "*"
 
